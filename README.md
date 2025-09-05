@@ -10,17 +10,17 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="35" height="35" /> About Me
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="50"> About Me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working as an **Intern at spiked.ai**, building an AI-powered Sales Copilot for real-time client interactions.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" /> I’m currently learning **DevOps, Federated Learning, and all things cloud-native**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> I’m currently learning **DevOps, Federated Learning, and all things cloud-native**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="25" height="25" /> If it’s weird, useful, or sounds like a terrible idea at first — I probably want to build it. **Let’s connect!**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Ask me about **Scalable Backend Systems, Cloud Technologies, and Machine Learning**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" /> Fun fact: **I spend my nights trying to Apparate to Hogwarts.**
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="35" height="35" /> Get In Touch
+### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="50" height="50"> Connect with me: 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/umaryaksambi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="umar yaksambi" /></a>
@@ -31,7 +31,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> My Tech Stack
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" width="50"> My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -66,16 +66,28 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> My GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> My GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UmarYaksambi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="UmarYaksambi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarYaksambi&layout=compact&theme=tokyonight&hide_border=true" alt="UmarYaksambi's Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=UmarYaksambi&theme=tokyonight&hide_border=true" alt="UmarYaksambi's GitHub Streak" />
 </p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=UmarYaksambi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+### 📈 Languages Over Time
+<p align="center">
+  <a href="https://quine.sh/u/umaryaksambi?utm_source=widgets&utm_campaign=UmarYaksambi">
+    <img width="500" src="https://stats.quine.sh/UmarYaksambi/languages-over-time?theme=dark" alt="UmarYaksambi's Languages Over Time" />
+  </a>
+</p>
+
 
 ---
 
@@ -84,3 +96,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/UmarYaksambi/UmarYaksambi/output/github-contribution-grid-snake.svg" alt="UmarYaksambi's contribution snake" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
