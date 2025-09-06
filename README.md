@@ -8,7 +8,7 @@
 
 <h3 align="center">ML Enthusiast | Software Engineer | Caffinated Vigilante <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /></h3>
 
----
+
 <br>
 
 ### <h1><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="50">About Me</h1>
@@ -19,7 +19,6 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Ask me about **Scalable Backend Systems, Cloud Technologies, and Machine Learning**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" /> Fun fact: **I spend my nights trying to Apparate to Hogwarts.**
 
----
 <br>
 
 <p align="center">
@@ -40,7 +39,7 @@
 </p>
 
 
----
+
 <br>
 
 ### <h1><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" width="50"> My Tech Stack </h1>
@@ -76,7 +75,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
+
 <br>
 
 ### <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> My GitHub Stats & Activity </h1>
@@ -94,15 +93,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=UmarYaksambi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
-### <h1>📈 Languages Over Time</h1>
-<p align="center">
-  <a href="https://quine.sh/u/umaryaksambi?utm_source=widgets&utm_campaign=UmarYaksambi">
-    <img width="500" src="https://stats.quine.sh/UmarYaksambi/languages-over-time?theme=dark" alt="UmarYaksambi's Languages Over Time" />
-  </a>
-</p>
 
-
----
 <br>
 
 ### <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> My Contribution Graph </h1>
